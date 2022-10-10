@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryfromdatamindconnect",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f6a3aaa1-c2a0-4d03-aa3f-4acac5dd8d78",
+		"tenantId": "719b8fa3-6514-419f-898f-a20c533b5b08"
+	}
+}
